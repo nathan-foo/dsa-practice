@@ -1,5 +1,7 @@
 # dsa-practice
 
+To ace my coding interviews :>
+
 ## Arrays / Strings
 
 ### Easy
