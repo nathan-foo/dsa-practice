@@ -1,7 +1,10 @@
 # DSA Practice
 
-228 total problems.
-Time to ace my coding interviews :>
+228 total problems. Time to ace my coding interviews :>
+
+- [Leetcode](https://leetcode.com/studyplan/leetcode-75/)
+- [Neetcode](https://neetcode.io/roadmap)
+- [Algomap](https://algomap.io/)
 
 
 ## Array / String
