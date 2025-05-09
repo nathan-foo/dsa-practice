@@ -11,8 +11,8 @@
 
 ### Easy
 
-- Merge Strings Alternately (Leetcode)
-- Greatest Common Divisor of Strings (Leetcode)
+- ~~Merge Strings Alternately (Leetcode)~~
+- ~~Greatest Common Divisor of Strings (Leetcode)~~
 - Kids With the Greatest Number of Candies (Leetcode)
 - Can Place Flowers (Leetcode)
 - Reverse Vowels of a String (Leetcode)
